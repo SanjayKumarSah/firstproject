@@ -7,3 +7,5 @@ added first properties
 
 changes done in master
 
+first edit after jenkins job 
+
